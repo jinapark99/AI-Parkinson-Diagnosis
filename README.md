@@ -5,6 +5,7 @@ This project analyzes eye movement data to estimate Parkinson’s disease severi
 ---
 
 ## 📁 Project Structure
+```
 ├── scripts/ # Python scripts
 │ ├── collect_imu_data.py
 │ ├── compare_eye_to_target.py
@@ -28,7 +29,7 @@ This project analyzes eye movement data to estimate Parkinson’s disease severi
 │
 ├── .gitignore
 └── README.md
-
+```
 
 ## 🧪 Features
 
