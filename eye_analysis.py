@@ -61,7 +61,7 @@ def visualize_frame(frame, left, right, head, center):
 # ──────────────────────────────
 # 🎥 웹캠 캡처 설정
 # ──────────────────────────────
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture(1)
 fps = 30
 cap.set(cv2.CAP_PROP_FPS, fps)
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
