@@ -5,7 +5,29 @@ This project analyzes eye movement data to estimate Parkinson’s disease severi
 ---
 
 ## 📁 Project Structure
-<pre> ``` AI-Parkinson-Diagnosis/ ├── scripts/ # Python scripts │ ├── collect_imu_data.py │ ├── compare_eye_to_target.py │ ├── eye_analysis.py │ ├── eye_tracking_app.py │ ├── make_dummy_target.py │ └── merge_eye_and_imu.py │ ├── data/ # Raw and processed CSV data │ ├── eye_movement_coordinates.csv │ ├── coordenadas_pelota.csv │ └── merged_eye_target_MRL.csv │ ├── figures/ # Output visualizations │ ├── distance_MRL_prediction.png │ ├── trajectory_x_MRL.png │ └── trajectory_y_MRL.png │ ├── eyeinfo/ # Eye-tracking config/info (추가된 폴더) │ └── ... │ ├── .gitignore ├── README.md  ``` </pre>
+├── scripts/ # Python scripts
+│ ├── collect_imu_data.py
+│ ├── compare_eye_to_target.py
+│ ├── eye_analysis.py
+│ ├── eye_tracking_app.py
+│ ├── make_dummy_target.py
+│ └── merge_eye_and_imu.py
+│
+├── data/ # Raw and processed CSV data
+│ ├── eye_movement_coordinates.csv
+│ ├── coordenadas_pelota.csv
+│ └── merged_eye_target_MRL.csv
+│
+├── figures/ # Output visualizations
+│ ├── distance_MRL_prediction.png
+│ ├── trajectory_x_MRL.png
+│ └── trajectory_y_MRL.png
+│
+├── eyeinfo/ # Eye-tracking config/info
+│ └── ...
+│
+├── .gitignore
+└── README.md
 
 
 ## 🧪 Features
