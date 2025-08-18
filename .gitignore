@@ -206,3 +206,25 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .idea/
+# macOS system
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VSCode settings
+.vscode/
+
+# Data (raw / session)
+data/session_*.csv
+data/*.tmp
+
+# Figures (temporary outputs)
+figures/*.png
+figures/*.jpg
+
+# Legacy environment folder
+eyeinfo/
+
