@@ -6,6 +6,7 @@ import argparse
 
 # ──────────────────────────────
 # 🎛️ 설정: argparse
+
 # ──────────────────────────────
 parser = argparse.ArgumentParser()
 parser.add_argument("--visualize", action="store_true", help="Display webcam visualization")
@@ -61,7 +62,7 @@ def visualize_frame(frame, left, right, head, center):
 # ──────────────────────────────
 # 🎥 웹캠 캡처 설정
 # ──────────────────────────────
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(0)
 fps = 30
 cap.set(cv2.CAP_PROP_FPS, fps)
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
