@@ -1,0 +1,2215 @@
+{
+  "timestamp": "2025-08-18_23-05-40",
+  "date": "2025-08-18",
+  "time": "23:05:40",
+  "blink_count_30s": 17,
+  "blinks_per_minute": 34,
+  "status": "정상",
+  "notes": "정상: 15-20회/분, 파킨슨병: 5-10회/분",
+  "test_duration": "30초",
+  "created_at": "2025-08-18T23:05:40.048925",
+  "baseline_left_ear": null,
+  "baseline_right_ear": null,
+  "ear_data": [
+    {
+      "timestamp": 1755525910.052021,
+      "elapsed_time": 0.04261302947998047,
+      "left_ear": 0.43895358606161444,
+      "right_ear": 0.6872391463451979,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525910.142118,
+      "elapsed_time": 0.13270998001098633,
+      "left_ear": 0.5041701436991083,
+      "right_ear": 0.7095709080101065,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525910.245271,
+      "elapsed_time": 0.23586297035217285,
+      "left_ear": 0.496678677356989,
+      "right_ear": 0.6640304463892999,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525910.3115048,
+      "elapsed_time": 0.3020968437194824,
+      "left_ear": 0.43112525163880594,
+      "right_ear": 0.6099374671274256,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525910.403522,
+      "elapsed_time": 0.39411401748657227,
+      "left_ear": 0.49073614152892525,
+      "right_ear": 0.7975327913100145,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525910.51935,
+      "elapsed_time": 0.5099420547485352,
+      "left_ear": 0.5056079541612319,
+      "right_ear": 0.6794053789205696,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525910.632607,
+      "elapsed_time": 0.6231989860534668,
+      "left_ear": 0.45232850360554683,
+      "right_ear": 0.7582279774277163,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525910.717281,
+      "elapsed_time": 0.7078731060028076,
+      "left_ear": 0.43752925130888537,
+      "right_ear": 0.5990694911576284,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525910.822562,
+      "elapsed_time": 0.8131539821624756,
+      "left_ear": 0.08597483230552574,
+      "right_ear": 0.03744738343605047,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525910.9124968,
+      "elapsed_time": 0.9030888080596924,
+      "left_ear": 0.4271616347777102,
+      "right_ear": 0.6208743728752222,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525911.016108,
+      "elapsed_time": 1.006700038909912,
+      "left_ear": 0.47586534664038355,
+      "right_ear": 0.6618352491950823,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525911.115326,
+      "elapsed_time": 1.1059179306030273,
+      "left_ear": 0.4693996037813145,
+      "right_ear": 0.6725321882355532,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525911.2309928,
+      "elapsed_time": 1.2215847969055176,
+      "left_ear": 0.13337208881799603,
+      "right_ear": 0.05900066731391397,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525911.3161511,
+      "elapsed_time": 1.3067431449890137,
+      "left_ear": 0.33008772077941595,
+      "right_ear": 0.3176102415116738,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525911.417205,
+      "elapsed_time": 1.40779709815979,
+      "left_ear": 0.44066093910319715,
+      "right_ear": 0.7037280348263397,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525911.5246878,
+      "elapsed_time": 1.515279769897461,
+      "left_ear": 0.4457450257701785,
+      "right_ear": 0.6812877847180255,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525911.618894,
+      "elapsed_time": 1.6094861030578613,
+      "left_ear": 0.4902697625296704,
+      "right_ear": 0.7663664788470286,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525911.720344,
+      "elapsed_time": 1.7109360694885254,
+      "left_ear": 0.48225713039123624,
+      "right_ear": 0.7518308890881369,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525911.82062,
+      "elapsed_time": 1.8112120628356934,
+      "left_ear": 0.4664450363155481,
+      "right_ear": 0.7281713712574046,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525911.917252,
+      "elapsed_time": 1.907844066619873,
+      "left_ear": 0.5277170178183884,
+      "right_ear": 0.7227052587318452,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.018843,
+      "elapsed_time": 2.009434938430786,
+      "left_ear": 0.45206738016111336,
+      "right_ear": 0.7476787604217371,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.122786,
+      "elapsed_time": 2.1133780479431152,
+      "left_ear": 0.45639936256172386,
+      "right_ear": 0.7284241299669219,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.213771,
+      "elapsed_time": 2.2043631076812744,
+      "left_ear": 0.5145755600806591,
+      "right_ear": 0.7301088828921679,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.3200982,
+      "elapsed_time": 2.31069016456604,
+      "left_ear": 0.4936497644608611,
+      "right_ear": 0.6741506269460622,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.4180532,
+      "elapsed_time": 2.4086451530456543,
+      "left_ear": 0.5077852469688829,
+      "right_ear": 0.6892170237540499,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.518843,
+      "elapsed_time": 2.509434938430786,
+      "left_ear": 0.470003517856933,
+      "right_ear": 0.6747340242929567,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.618856,
+      "elapsed_time": 2.609447956085205,
+      "left_ear": 0.46790991100933066,
+      "right_ear": 0.6831939863033567,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.717929,
+      "elapsed_time": 2.7085208892822266,
+      "left_ear": 0.4919576482562103,
+      "right_ear": 0.7055348848051783,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.818538,
+      "elapsed_time": 2.8091299533843994,
+      "left_ear": 0.466845357687725,
+      "right_ear": 0.6949786350475329,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525912.9196448,
+      "elapsed_time": 2.9102368354797363,
+      "left_ear": 0.4422922635829146,
+      "right_ear": 0.7235156506916998,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.019669,
+      "elapsed_time": 3.010261058807373,
+      "left_ear": 0.4608598276993284,
+      "right_ear": 0.737533961642038,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.118846,
+      "elapsed_time": 3.109437942504883,
+      "left_ear": 0.4535435767393261,
+      "right_ear": 0.7225380529692725,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.215154,
+      "elapsed_time": 3.2057459354400635,
+      "left_ear": 0.46684345125275367,
+      "right_ear": 0.7302803703740433,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.319093,
+      "elapsed_time": 3.309684991836548,
+      "left_ear": 0.4561027251291148,
+      "right_ear": 0.7349776019883663,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.419604,
+      "elapsed_time": 3.41019606590271,
+      "left_ear": 0.4581276502676657,
+      "right_ear": 0.8384157341180082,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.520552,
+      "elapsed_time": 3.511143922805786,
+      "left_ear": 0.42758029191402896,
+      "right_ear": 0.7305862536897615,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.6159518,
+      "elapsed_time": 3.606543779373169,
+      "left_ear": 0.43789138083776435,
+      "right_ear": 0.7137269690285333,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.725049,
+      "elapsed_time": 3.7156410217285156,
+      "left_ear": 0.4639567262762262,
+      "right_ear": 0.7745893328658474,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.822321,
+      "elapsed_time": 3.812912940979004,
+      "left_ear": 0.2675171891105601,
+      "right_ear": 0.14511162313079395,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525913.9188428,
+      "elapsed_time": 3.9094347953796387,
+      "left_ear": 0.14141515887796663,
+      "right_ear": 0.2806639188765715,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525914.0196888,
+      "elapsed_time": 4.0102808475494385,
+      "left_ear": 0.4011594317822459,
+      "right_ear": 0.574454964863723,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525914.1207738,
+      "elapsed_time": 4.111365795135498,
+      "left_ear": 0.41103818048163543,
+      "right_ear": 0.664595272948865,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525914.222218,
+      "elapsed_time": 4.212810039520264,
+      "left_ear": 0.4898762244266204,
+      "right_ear": 0.7503845397082209,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525914.322981,
+      "elapsed_time": 4.313573122024536,
+      "left_ear": 0.4652857238895974,
+      "right_ear": 0.7078720825940569,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525914.422583,
+      "elapsed_time": 4.413175106048584,
+      "left_ear": 0.47775496283829205,
+      "right_ear": 0.7576701924081991,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525914.521966,
+      "elapsed_time": 4.5125579833984375,
+      "left_ear": 0.4997680813580418,
+      "right_ear": 0.7238238290501209,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525914.6239512,
+      "elapsed_time": 4.614543199539185,
+      "left_ear": 0.4599280814543783,
+      "right_ear": 0.644743022301044,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525914.72323,
+      "elapsed_time": 4.713821887969971,
+      "left_ear": 0.483699167138588,
+      "right_ear": 0.6979880604433387,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525914.8203268,
+      "elapsed_time": 4.810918807983398,
+      "left_ear": 0.4775921831416511,
+      "right_ear": 0.6515483012924662,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525914.9209301,
+      "elapsed_time": 4.911522150039673,
+      "left_ear": 0.49754625411046705,
+      "right_ear": 0.7001223387738906,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525915.020501,
+      "elapsed_time": 5.011092901229858,
+      "left_ear": 0.4572317175114472,
+      "right_ear": 0.6974850028254427,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525915.122072,
+      "elapsed_time": 5.112663984298706,
+      "left_ear": 0.47994220093528084,
+      "right_ear": 0.6763123647531862,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525915.2238731,
+      "elapsed_time": 5.214465141296387,
+      "left_ear": 0.5110147093987704,
+      "right_ear": 0.7191797886228302,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525915.323104,
+      "elapsed_time": 5.313695907592773,
+      "left_ear": 0.3036565295193923,
+      "right_ear": 0.07120493032797777,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525915.424293,
+      "elapsed_time": 5.4148850440979,
+      "left_ear": 0.431490242622297,
+      "right_ear": 0.491040771485166,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525915.5243819,
+      "elapsed_time": 5.514973878860474,
+      "left_ear": 0.5071661922093174,
+      "right_ear": 0.6436037408824752,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525915.623182,
+      "elapsed_time": 5.613774061203003,
+      "left_ear": 0.5429780159924359,
+      "right_ear": 0.7510401002471293,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525915.722986,
+      "elapsed_time": 5.71357798576355,
+      "left_ear": 0.5006805187267875,
+      "right_ear": 0.7526989457306681,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525915.825144,
+      "elapsed_time": 5.8157360553741455,
+      "left_ear": 0.5246092581353841,
+      "right_ear": 0.7745144418438721,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525915.9293282,
+      "elapsed_time": 5.919920206069946,
+      "left_ear": 0.5419423800088102,
+      "right_ear": 0.799161438930468,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.0247931,
+      "elapsed_time": 6.015385150909424,
+      "left_ear": 0.5811389019389036,
+      "right_ear": 0.687879882509951,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.122546,
+      "elapsed_time": 6.11313796043396,
+      "left_ear": 0.5797618068121566,
+      "right_ear": 0.7512970635263132,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.2254121,
+      "elapsed_time": 6.216004133224487,
+      "left_ear": 0.5467271396901136,
+      "right_ear": 0.7241189916292572,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.325844,
+      "elapsed_time": 6.316436052322388,
+      "left_ear": 0.5325385572415252,
+      "right_ear": 0.723452910764389,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.426517,
+      "elapsed_time": 6.41710901260376,
+      "left_ear": 0.5643985257402881,
+      "right_ear": 0.7909374505203842,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.5265338,
+      "elapsed_time": 6.517125844955444,
+      "left_ear": 0.578530962822545,
+      "right_ear": 0.7421746678458747,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.627296,
+      "elapsed_time": 6.6178879737854,
+      "left_ear": 0.545313676425572,
+      "right_ear": 0.7965356606100898,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.727867,
+      "elapsed_time": 6.718458890914917,
+      "left_ear": 0.545395654507781,
+      "right_ear": 0.7288824950293746,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.832871,
+      "elapsed_time": 6.823462963104248,
+      "left_ear": 0.5247711502289989,
+      "right_ear": 0.7224363113935495,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525916.9286451,
+      "elapsed_time": 6.91923713684082,
+      "left_ear": 0.5212644668570706,
+      "right_ear": 0.708523979705557,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525917.0291,
+      "elapsed_time": 7.0196919441223145,
+      "left_ear": 0.5254020253125763,
+      "right_ear": 0.7006578549096447,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525917.130246,
+      "elapsed_time": 7.120837926864624,
+      "left_ear": 0.5089715695723291,
+      "right_ear": 0.7126462403425664,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525917.225004,
+      "elapsed_time": 7.215595960617065,
+      "left_ear": 0.2360262398884206,
+      "right_ear": 0.05660691949397921,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525917.329113,
+      "elapsed_time": 7.319705009460449,
+      "left_ear": 0.33952210288785734,
+      "right_ear": 0.267930100791344,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525917.4257438,
+      "elapsed_time": 7.416335821151733,
+      "left_ear": 0.45368509972467685,
+      "right_ear": 0.6549869501560754,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525917.529511,
+      "elapsed_time": 7.5201029777526855,
+      "left_ear": 0.503489869465418,
+      "right_ear": 0.6791313781989727,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525917.6263099,
+      "elapsed_time": 7.616901874542236,
+      "left_ear": 0.4549995886275911,
+      "right_ear": 0.7044864437421685,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525917.73156,
+      "elapsed_time": 7.7221519947052,
+      "left_ear": 0.5065698651790518,
+      "right_ear": 0.7156355520244181,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525917.827755,
+      "elapsed_time": 7.818346977233887,
+      "left_ear": 0.4842888980109226,
+      "right_ear": 0.6589602481575644,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525917.930316,
+      "elapsed_time": 7.920907974243164,
+      "left_ear": 0.4784288881282041,
+      "right_ear": 0.6823892575113473,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525918.034255,
+      "elapsed_time": 8.024847030639648,
+      "left_ear": 0.4917904330414186,
+      "right_ear": 0.7380561476579253,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525918.130595,
+      "elapsed_time": 8.121186971664429,
+      "left_ear": 0.4124373033926303,
+      "right_ear": 0.5706179062839153,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525918.226092,
+      "elapsed_time": 8.216684103012085,
+      "left_ear": 0.18668434732003317,
+      "right_ear": 0.05818138031375102,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525918.339797,
+      "elapsed_time": 8.330389022827148,
+      "left_ear": 0.38923153017684203,
+      "right_ear": 0.5728927901647173,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525918.429267,
+      "elapsed_time": 8.419858932495117,
+      "left_ear": 0.4297429196400497,
+      "right_ear": 0.6300076943032209,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525918.531224,
+      "elapsed_time": 8.52181601524353,
+      "left_ear": 0.459639370445238,
+      "right_ear": 0.7364223074140214,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525918.630472,
+      "elapsed_time": 8.621063947677612,
+      "left_ear": 0.4449409331647739,
+      "right_ear": 0.746751622905364,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525918.728152,
+      "elapsed_time": 8.718744039535522,
+      "left_ear": 0.4441828678025131,
+      "right_ear": 0.6624658455479618,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525918.832779,
+      "elapsed_time": 8.823370933532715,
+      "left_ear": 0.4443298162568494,
+      "right_ear": 0.6358513787860743,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525918.931078,
+      "elapsed_time": 8.921669960021973,
+      "left_ear": 0.44324463710290546,
+      "right_ear": 0.7444012692580082,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525919.0291069,
+      "elapsed_time": 9.019698858261108,
+      "left_ear": 0.27859525833371196,
+      "right_ear": 0.1553892936978152,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525919.132746,
+      "elapsed_time": 9.123337984085083,
+      "left_ear": 0.13011068711784246,
+      "right_ear": 0.060129449278597154,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525919.227267,
+      "elapsed_time": 9.217859029769897,
+      "left_ear": 0.1416119135793762,
+      "right_ear": 0.02729965875644533,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525919.3302422,
+      "elapsed_time": 9.320834159851074,
+      "left_ear": 0.14981120195082992,
+      "right_ear": 0.054718555624551815,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525919.425347,
+      "elapsed_time": 9.415939092636108,
+      "left_ear": 0.39930136340091377,
+      "right_ear": 0.6561521483258048,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525919.533448,
+      "elapsed_time": 9.52403998374939,
+      "left_ear": 0.4450339732767609,
+      "right_ear": 0.681858020220713,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525919.6328902,
+      "elapsed_time": 9.62348222732544,
+      "left_ear": 0.2924311181564913,
+      "right_ear": 0.21499111765210446,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525919.731436,
+      "elapsed_time": 9.722028017044067,
+      "left_ear": 0.36661117996837206,
+      "right_ear": 0.4165638674404895,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525919.832464,
+      "elapsed_time": 9.823055982589722,
+      "left_ear": 0.3877466724070938,
+      "right_ear": 0.5719891166070298,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525919.929207,
+      "elapsed_time": 9.919799089431763,
+      "left_ear": 0.4117857492655099,
+      "right_ear": 0.6875929176235878,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525920.034653,
+      "elapsed_time": 10.025244951248169,
+      "left_ear": 0.4630472632566754,
+      "right_ear": 0.6470351924971306,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525920.128417,
+      "elapsed_time": 10.119009017944336,
+      "left_ear": 0.4254092197822448,
+      "right_ear": 0.6621031824695037,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525920.233154,
+      "elapsed_time": 10.223746061325073,
+      "left_ear": 0.469547030206627,
+      "right_ear": 0.6652294891524824,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525920.333396,
+      "elapsed_time": 10.32398796081543,
+      "left_ear": 0.4584109203180975,
+      "right_ear": 0.7316375817671847,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525920.439786,
+      "elapsed_time": 10.430377960205078,
+      "left_ear": 0.47288833863158186,
+      "right_ear": 0.697751133014433,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525920.5565,
+      "elapsed_time": 10.547091960906982,
+      "left_ear": 0.4675583441028492,
+      "right_ear": 0.7317397368762576,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525920.705493,
+      "elapsed_time": 10.696084976196289,
+      "left_ear": 0.4364325757419809,
+      "right_ear": 0.6787859244403858,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525920.925513,
+      "elapsed_time": 10.916105031967163,
+      "left_ear": 0.43573654008640067,
+      "right_ear": 0.6943352697328032,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525921.049442,
+      "elapsed_time": 11.040034055709839,
+      "left_ear": 0.4560145457857107,
+      "right_ear": 0.6165057319230658,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525921.148195,
+      "elapsed_time": 11.138787031173706,
+      "left_ear": 0.4519000312482803,
+      "right_ear": 0.650391577311729,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525921.273213,
+      "elapsed_time": 11.263804912567139,
+      "left_ear": 0.40662394051191036,
+      "right_ear": 0.6630295699596931,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525921.392384,
+      "elapsed_time": 11.382976055145264,
+      "left_ear": 0.4433702777381361,
+      "right_ear": 0.6159836398374132,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525921.514956,
+      "elapsed_time": 11.505548000335693,
+      "left_ear": 0.2821742134331202,
+      "right_ear": 0.15978868479979963,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525921.606727,
+      "elapsed_time": 11.597318887710571,
+      "left_ear": 0.3891456839564961,
+      "right_ear": 0.6160922837294891,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525921.7127051,
+      "elapsed_time": 11.703297138214111,
+      "left_ear": 0.40293655888579283,
+      "right_ear": 0.6667116591369,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525921.803464,
+      "elapsed_time": 11.794055938720703,
+      "left_ear": 0.44155212797380045,
+      "right_ear": 0.6728926011146685,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525921.942359,
+      "elapsed_time": 11.932950973510742,
+      "left_ear": 0.42913366002903836,
+      "right_ear": 0.6347879855817035,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525922.032925,
+      "elapsed_time": 12.02351689338684,
+      "left_ear": 0.4527979053368961,
+      "right_ear": 0.6599536321977945,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525922.133174,
+      "elapsed_time": 12.12376594543457,
+      "left_ear": 0.3103217773136041,
+      "right_ear": 0.2042287486426328,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525922.2291179,
+      "elapsed_time": 12.219709873199463,
+      "left_ear": 0.12758379866622313,
+      "right_ear": 0.039475959651204734,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525922.3310359,
+      "elapsed_time": 12.321627855300903,
+      "left_ear": 0.1558238597329076,
+      "right_ear": 0.03740724104273472,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525922.428326,
+      "elapsed_time": 12.418917894363403,
+      "left_ear": 0.11287806013117709,
+      "right_ear": 0.0412555380149227,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525922.53608,
+      "elapsed_time": 12.526671886444092,
+      "left_ear": 0.20402441097562568,
+      "right_ear": 0.059496787776154615,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525922.639221,
+      "elapsed_time": 12.629812955856323,
+      "left_ear": 0.10100154871449481,
+      "right_ear": 0.045124033744747404,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525922.73551,
+      "elapsed_time": 12.726102113723755,
+      "left_ear": 0.13288950285597273,
+      "right_ear": 0.04807335505592345,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525922.8410518,
+      "elapsed_time": 12.83164381980896,
+      "left_ear": 0.10487630731494908,
+      "right_ear": 0.04769141423867004,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525922.936063,
+      "elapsed_time": 12.926655054092407,
+      "left_ear": 0.2801252281416455,
+      "right_ear": 0.4144454059136432,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525923.040569,
+      "elapsed_time": 13.031161069869995,
+      "left_ear": 0.3580067787959765,
+      "right_ear": 0.5270396495464494,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525923.135618,
+      "elapsed_time": 13.12620997428894,
+      "left_ear": 0.38266139519149084,
+      "right_ear": 0.620513752808604,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525923.239476,
+      "elapsed_time": 13.23006796836853,
+      "left_ear": 0.40919758864126937,
+      "right_ear": 0.611635909836224,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525923.335733,
+      "elapsed_time": 13.326324939727783,
+      "left_ear": 0.42889477605459253,
+      "right_ear": 0.6991111647694215,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525923.4356449,
+      "elapsed_time": 13.426236867904663,
+      "left_ear": 0.42898444411351483,
+      "right_ear": 0.7075074046062569,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525923.5368981,
+      "elapsed_time": 13.527490139007568,
+      "left_ear": 0.4174053159652569,
+      "right_ear": 0.6427931529655834,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525923.642986,
+      "elapsed_time": 13.633578062057495,
+      "left_ear": 0.41813386583140444,
+      "right_ear": 0.660219033978714,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525923.736386,
+      "elapsed_time": 13.726978063583374,
+      "left_ear": 0.42438761256876206,
+      "right_ear": 0.6747665310204847,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525923.838652,
+      "elapsed_time": 13.829243898391724,
+      "left_ear": 0.42792901656935645,
+      "right_ear": 0.7135451774362254,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525923.9403431,
+      "elapsed_time": 13.930935144424438,
+      "left_ear": 0.42405449085887165,
+      "right_ear": 0.6727829248417726,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.043872,
+      "elapsed_time": 14.034464120864868,
+      "left_ear": 0.44441153227976377,
+      "right_ear": 0.6609636171012894,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.138102,
+      "elapsed_time": 14.1286940574646,
+      "left_ear": 0.41888736544958716,
+      "right_ear": 0.663067873963793,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.237174,
+      "elapsed_time": 14.227766036987305,
+      "left_ear": 0.4382379885375636,
+      "right_ear": 0.7096074305628366,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.337975,
+      "elapsed_time": 14.328567028045654,
+      "left_ear": 0.42185086860740095,
+      "right_ear": 0.6701955817328935,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.4370549,
+      "elapsed_time": 14.42764687538147,
+      "left_ear": 0.45421128953532625,
+      "right_ear": 0.7046189687467734,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.542728,
+      "elapsed_time": 14.53331995010376,
+      "left_ear": 0.45986327125222165,
+      "right_ear": 0.6733563158746408,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.6367428,
+      "elapsed_time": 14.627334833145142,
+      "left_ear": 0.4249082174774113,
+      "right_ear": 0.6972498905728889,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.740313,
+      "elapsed_time": 14.730905055999756,
+      "left_ear": 0.4331506315715671,
+      "right_ear": 0.6855586055496409,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.838491,
+      "elapsed_time": 14.82908296585083,
+      "left_ear": 0.42183815532711805,
+      "right_ear": 0.6889433907483281,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525924.943416,
+      "elapsed_time": 14.934008121490479,
+      "left_ear": 0.43271517882421173,
+      "right_ear": 0.6382980772546281,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525925.041425,
+      "elapsed_time": 15.03201699256897,
+      "left_ear": 0.4770560159608911,
+      "right_ear": 0.551443588901676,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525925.139808,
+      "elapsed_time": 15.130399942398071,
+      "left_ear": 0.07813475632378288,
+      "right_ear": 0.049480496810892685,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525925.242816,
+      "elapsed_time": 15.233407974243164,
+      "left_ear": 0.40927603512253774,
+      "right_ear": 0.4753215234322499,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525925.33933,
+      "elapsed_time": 15.329921960830688,
+      "left_ear": 0.4162893743857618,
+      "right_ear": 0.5521640542352612,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525925.4363,
+      "elapsed_time": 15.426892042160034,
+      "left_ear": 0.42372360182210916,
+      "right_ear": 0.5688914164710316,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525925.5413702,
+      "elapsed_time": 15.531962156295776,
+      "left_ear": 0.4662251377931109,
+      "right_ear": 0.5616677181794107,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525925.6393862,
+      "elapsed_time": 15.62997817993164,
+      "left_ear": 0.4513735181610595,
+      "right_ear": 0.6278438805847827,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525925.746586,
+      "elapsed_time": 15.737178087234497,
+      "left_ear": 0.45432128012453415,
+      "right_ear": 0.5892441250466476,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525925.839448,
+      "elapsed_time": 15.830039978027344,
+      "left_ear": 0.44707498652380456,
+      "right_ear": 0.6371276998810917,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525925.9468741,
+      "elapsed_time": 15.937466144561768,
+      "left_ear": 0.4518553496084449,
+      "right_ear": 0.5577157357830179,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.039972,
+      "elapsed_time": 16.030564069747925,
+      "left_ear": 0.4552364948950785,
+      "right_ear": 0.5973658507827727,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.137593,
+      "elapsed_time": 16.128185033798218,
+      "left_ear": 0.4515184670007882,
+      "right_ear": 0.6024428934050284,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.248192,
+      "elapsed_time": 16.238784074783325,
+      "left_ear": 0.4395952997331797,
+      "right_ear": 0.7169430319447211,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.338376,
+      "elapsed_time": 16.328968048095703,
+      "left_ear": 0.47486589955911873,
+      "right_ear": 0.5781989054521615,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.4406478,
+      "elapsed_time": 16.43123984336853,
+      "left_ear": 0.4380371693441822,
+      "right_ear": 0.7083837497764698,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.548209,
+      "elapsed_time": 16.538800954818726,
+      "left_ear": 0.4613626880145132,
+      "right_ear": 0.6426411743229512,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.6412008,
+      "elapsed_time": 16.631792783737183,
+      "left_ear": 0.42507169539188716,
+      "right_ear": 0.6614183286478114,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.753036,
+      "elapsed_time": 16.74362802505493,
+      "left_ear": 0.4420986453648992,
+      "right_ear": 0.5891020998028504,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.845925,
+      "elapsed_time": 16.836517095565796,
+      "left_ear": 0.42922528978761215,
+      "right_ear": 0.5202027903357013,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525926.944604,
+      "elapsed_time": 16.935195922851562,
+      "left_ear": 0.11930536658163943,
+      "right_ear": 0.05076225676706491,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525927.04855,
+      "elapsed_time": 17.03914189338684,
+      "left_ear": 0.40364641556284225,
+      "right_ear": 0.47996432729212657,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525927.146438,
+      "elapsed_time": 17.137029886245728,
+      "left_ear": 0.41379010420347606,
+      "right_ear": 0.4948101158179053,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525927.2516532,
+      "elapsed_time": 17.242245197296143,
+      "left_ear": 0.45374701502405407,
+      "right_ear": 0.6063914186199744,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525927.336056,
+      "elapsed_time": 17.326647996902466,
+      "left_ear": 0.43466123246084637,
+      "right_ear": 0.561907340072974,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525927.450562,
+      "elapsed_time": 17.44115400314331,
+      "left_ear": 0.4500322487604027,
+      "right_ear": 0.6406822016964274,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525927.547861,
+      "elapsed_time": 17.538453102111816,
+      "left_ear": 0.46583567049528496,
+      "right_ear": 0.5768920931027931,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525927.644429,
+      "elapsed_time": 17.635020971298218,
+      "left_ear": 0.44188119023104033,
+      "right_ear": 0.5992450908835882,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525927.744192,
+      "elapsed_time": 17.73478388786316,
+      "left_ear": 0.4610493580396509,
+      "right_ear": 0.5631458589613296,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525927.843634,
+      "elapsed_time": 17.83422589302063,
+      "left_ear": 0.45112232697232085,
+      "right_ear": 0.5831522284406533,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525927.9417331,
+      "elapsed_time": 17.9323251247406,
+      "left_ear": 0.4459050022874179,
+      "right_ear": 0.5877998545298966,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525928.039905,
+      "elapsed_time": 18.030497074127197,
+      "left_ear": 0.4240313535552153,
+      "right_ear": 0.636782392723394,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525928.149336,
+      "elapsed_time": 18.139928102493286,
+      "left_ear": 0.44106709861714916,
+      "right_ear": 0.6986170261160577,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525928.250365,
+      "elapsed_time": 18.240957021713257,
+      "left_ear": 0.4525780666658628,
+      "right_ear": 0.7153845098315358,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525928.348372,
+      "elapsed_time": 18.338963985443115,
+      "left_ear": 0.4804591959106175,
+      "right_ear": 0.7719811170796421,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525928.4498718,
+      "elapsed_time": 18.44046378135681,
+      "left_ear": 0.44368316021283843,
+      "right_ear": 0.6783227466735263,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525928.549102,
+      "elapsed_time": 18.53969407081604,
+      "left_ear": 0.28019952053056446,
+      "right_ear": 0.13665302983381025,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525928.647529,
+      "elapsed_time": 18.638120889663696,
+      "left_ear": 0.35078647156793474,
+      "right_ear": 0.4650766612160375,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525928.75015,
+      "elapsed_time": 18.740741968154907,
+      "left_ear": 0.3958622286510189,
+      "right_ear": 0.6380095464042147,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525928.847049,
+      "elapsed_time": 18.83764100074768,
+      "left_ear": 0.4265236186854419,
+      "right_ear": 0.6568073923048684,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525928.946948,
+      "elapsed_time": 18.93754005432129,
+      "left_ear": 0.44512506888674486,
+      "right_ear": 0.6671096139912784,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.048105,
+      "elapsed_time": 19.038697004318237,
+      "left_ear": 0.4353755427910951,
+      "right_ear": 0.6344713551621651,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.1505878,
+      "elapsed_time": 19.14117980003357,
+      "left_ear": 0.4373139642079418,
+      "right_ear": 0.7021843664483125,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.249779,
+      "elapsed_time": 19.240370988845825,
+      "left_ear": 0.44563322843988123,
+      "right_ear": 0.6581839638273932,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.34966,
+      "elapsed_time": 19.340251922607422,
+      "left_ear": 0.4657472325362482,
+      "right_ear": 0.6668065351612039,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.451769,
+      "elapsed_time": 19.4423611164093,
+      "left_ear": 0.43443797600542694,
+      "right_ear": 0.6871147125455225,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.5474172,
+      "elapsed_time": 19.53800916671753,
+      "left_ear": 0.46229145897926865,
+      "right_ear": 0.7227832618020329,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.6509,
+      "elapsed_time": 19.641491889953613,
+      "left_ear": 0.44552620209902705,
+      "right_ear": 0.6943115690095085,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.7521029,
+      "elapsed_time": 19.742694854736328,
+      "left_ear": 0.46287793049398834,
+      "right_ear": 0.67563873860838,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.849671,
+      "elapsed_time": 19.84026288986206,
+      "left_ear": 0.448198029017078,
+      "right_ear": 0.703283949441982,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525929.950944,
+      "elapsed_time": 19.94153594970703,
+      "left_ear": 0.46602465937865944,
+      "right_ear": 0.736094170946158,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525930.049348,
+      "elapsed_time": 20.039940118789673,
+      "left_ear": 0.46939334220252754,
+      "right_ear": 0.6594609366731157,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525930.150096,
+      "elapsed_time": 20.140687942504883,
+      "left_ear": 0.4637942518333849,
+      "right_ear": 0.6855369700165692,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525930.2505002,
+      "elapsed_time": 20.241092205047607,
+      "left_ear": 0.46399563367022056,
+      "right_ear": 0.7772610312111735,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525930.3531039,
+      "elapsed_time": 20.343695878982544,
+      "left_ear": 0.4358771210107138,
+      "right_ear": 0.6683429628361043,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525930.443037,
+      "elapsed_time": 20.433629035949707,
+      "left_ear": 0.44856242273584235,
+      "right_ear": 0.6806226970228559,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525930.544176,
+      "elapsed_time": 20.534768104553223,
+      "left_ear": 0.17521958188222483,
+      "right_ear": 0.06464180644560501,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525930.654352,
+      "elapsed_time": 20.644943952560425,
+      "left_ear": 0.3866835662901807,
+      "right_ear": 0.5558324068906569,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525930.7565491,
+      "elapsed_time": 20.747141122817993,
+      "left_ear": 0.4145217270091371,
+      "right_ear": 0.7045196955914973,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525930.8502662,
+      "elapsed_time": 20.840858221054077,
+      "left_ear": 0.41648401241655036,
+      "right_ear": 0.6671718257017143,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525930.946049,
+      "elapsed_time": 20.936640977859497,
+      "left_ear": 0.4289695967676669,
+      "right_ear": 0.6228417744418955,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.0553448,
+      "elapsed_time": 21.045936822891235,
+      "left_ear": 0.43607375313689845,
+      "right_ear": 0.6701716371283633,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.147969,
+      "elapsed_time": 21.138561010360718,
+      "left_ear": 0.447571255802731,
+      "right_ear": 0.6911176479217414,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.252165,
+      "elapsed_time": 21.242757081985474,
+      "left_ear": 0.4142800112727641,
+      "right_ear": 0.6652443373126854,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.352557,
+      "elapsed_time": 21.343148946762085,
+      "left_ear": 0.45302531320220574,
+      "right_ear": 0.6992730415694055,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.460402,
+      "elapsed_time": 21.45099401473999,
+      "left_ear": 0.42771404520346634,
+      "right_ear": 0.7483180660835339,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.551699,
+      "elapsed_time": 21.542290925979614,
+      "left_ear": 0.44114251264928583,
+      "right_ear": 0.7334602984901893,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.657784,
+      "elapsed_time": 21.648375988006592,
+      "left_ear": 0.45851929939283903,
+      "right_ear": 0.7154953009823639,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.7521632,
+      "elapsed_time": 21.74275517463684,
+      "left_ear": 0.4658324660916316,
+      "right_ear": 0.7173765382735248,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.846911,
+      "elapsed_time": 21.83750295639038,
+      "left_ear": 0.47473554939567275,
+      "right_ear": 0.8175172232394674,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525931.955261,
+      "elapsed_time": 21.945852994918823,
+      "left_ear": 0.46380432010963196,
+      "right_ear": 0.6687131981838167,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525932.057751,
+      "elapsed_time": 22.04834294319153,
+      "left_ear": 0.45139448156867545,
+      "right_ear": 0.7453109457073318,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525932.154638,
+      "elapsed_time": 22.145230054855347,
+      "left_ear": 0.4595926015488065,
+      "right_ear": 0.6292155644245463,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525932.256862,
+      "elapsed_time": 22.247453927993774,
+      "left_ear": 0.47719639288249,
+      "right_ear": 0.704567405855011,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525932.353777,
+      "elapsed_time": 22.344368934631348,
+      "left_ear": 0.458285928669333,
+      "right_ear": 0.6741924999989765,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525932.458431,
+      "elapsed_time": 22.449023008346558,
+      "left_ear": 0.45182689751405464,
+      "right_ear": 0.7262558609046731,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525932.5643451,
+      "elapsed_time": 22.55493712425232,
+      "left_ear": 0.18052576829747502,
+      "right_ear": 0.15482970957097214,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525932.65424,
+      "elapsed_time": 22.644831895828247,
+      "left_ear": 0.31913904189345577,
+      "right_ear": 0.446367377211502,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525932.75618,
+      "elapsed_time": 22.746772050857544,
+      "left_ear": 0.3996183988969273,
+      "right_ear": 0.6545251765308892,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525932.856595,
+      "elapsed_time": 22.847187042236328,
+      "left_ear": 0.42139648285828485,
+      "right_ear": 0.637877181946486,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525932.9568892,
+      "elapsed_time": 22.947481155395508,
+      "left_ear": 0.3962358777124752,
+      "right_ear": 0.6968620582984931,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.0615199,
+      "elapsed_time": 23.052111864089966,
+      "left_ear": 0.40937579328552004,
+      "right_ear": 0.694473432078274,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.152578,
+      "elapsed_time": 23.14317011833191,
+      "left_ear": 0.4289333549404279,
+      "right_ear": 0.7054145612223708,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.257571,
+      "elapsed_time": 23.248162984848022,
+      "left_ear": 0.42678643505665326,
+      "right_ear": 0.6603006311232941,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.356844,
+      "elapsed_time": 23.34743595123291,
+      "left_ear": 0.4682471892427955,
+      "right_ear": 0.6826918158499745,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.4582222,
+      "elapsed_time": 23.448814153671265,
+      "left_ear": 0.467121390489928,
+      "right_ear": 0.6302745619682075,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.558997,
+      "elapsed_time": 23.549588918685913,
+      "left_ear": 0.4642100987058485,
+      "right_ear": 0.7400833348149524,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.657015,
+      "elapsed_time": 23.64760708808899,
+      "left_ear": 0.4591417524436586,
+      "right_ear": 0.7549360874400297,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.757947,
+      "elapsed_time": 23.748538970947266,
+      "left_ear": 0.5223315899391106,
+      "right_ear": 0.7093844482438417,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.862122,
+      "elapsed_time": 23.85271406173706,
+      "left_ear": 0.45000860954619626,
+      "right_ear": 0.664515968895197,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525933.958476,
+      "elapsed_time": 23.949068069458008,
+      "left_ear": 0.4244971045606077,
+      "right_ear": 0.7335545395593365,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525934.0705512,
+      "elapsed_time": 24.061143159866333,
+      "left_ear": 0.44762499304161524,
+      "right_ear": 0.6457424759381134,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525934.156379,
+      "elapsed_time": 24.146970987319946,
+      "left_ear": 0.4699257629795043,
+      "right_ear": 0.7429734443643002,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525934.26058,
+      "elapsed_time": 24.251172065734863,
+      "left_ear": 0.39730556896348973,
+      "right_ear": 0.764681733526158,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525934.361429,
+      "elapsed_time": 24.352020978927612,
+      "left_ear": 0.18358089780939357,
+      "right_ear": 0.42320381915330463,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525934.461855,
+      "elapsed_time": 24.452446937561035,
+      "left_ear": 0.3684192519977278,
+      "right_ear": 0.6566695698313946,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525934.560025,
+      "elapsed_time": 24.550616979599,
+      "left_ear": 0.4105566091767697,
+      "right_ear": 0.6157788874452604,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525934.660842,
+      "elapsed_time": 24.65143394470215,
+      "left_ear": 0.4142481293580323,
+      "right_ear": 0.622429268976183,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525934.761718,
+      "elapsed_time": 24.752310037612915,
+      "left_ear": 0.4066885660647828,
+      "right_ear": 0.7489012599738107,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525934.8622909,
+      "elapsed_time": 24.852882862091064,
+      "left_ear": 0.44903309636917,
+      "right_ear": 0.6289882374829484,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525934.95263,
+      "elapsed_time": 24.943222045898438,
+      "left_ear": 0.4520209412693359,
+      "right_ear": 0.6547156037274725,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.060822,
+      "elapsed_time": 25.051414012908936,
+      "left_ear": 0.4824984939230821,
+      "right_ear": 0.6279297187555468,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.161524,
+      "elapsed_time": 25.152116060256958,
+      "left_ear": 0.4534819067156976,
+      "right_ear": 0.613462574964,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.2624588,
+      "elapsed_time": 25.253050804138184,
+      "left_ear": 0.5368262434251073,
+      "right_ear": 0.7007006946322588,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.357462,
+      "elapsed_time": 25.34805393218994,
+      "left_ear": 0.4643707010261912,
+      "right_ear": 0.727821427035683,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.463244,
+      "elapsed_time": 25.45383596420288,
+      "left_ear": 0.518654771608796,
+      "right_ear": 0.744037566119833,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.5617652,
+      "elapsed_time": 25.55235719680786,
+      "left_ear": 0.5444679168592458,
+      "right_ear": 0.7695095662335496,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.6633978,
+      "elapsed_time": 25.653989791870117,
+      "left_ear": 0.5279460886609222,
+      "right_ear": 0.7110131065331764,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.76079,
+      "elapsed_time": 25.75138211250305,
+      "left_ear": 0.5217463645512123,
+      "right_ear": 0.7985956808182484,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.862944,
+      "elapsed_time": 25.853535890579224,
+      "left_ear": 0.44422666437313474,
+      "right_ear": 0.6096054605199085,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525935.960899,
+      "elapsed_time": 25.951491117477417,
+      "left_ear": 0.466962980914011,
+      "right_ear": 0.7366431752411309,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.0610838,
+      "elapsed_time": 26.05167579650879,
+      "left_ear": 0.49107980660838085,
+      "right_ear": 0.7392335200995345,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.170223,
+      "elapsed_time": 26.160815000534058,
+      "left_ear": 0.5185714490214943,
+      "right_ear": 0.7315163077831902,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.2645252,
+      "elapsed_time": 26.255117177963257,
+      "left_ear": 0.4934274966127435,
+      "right_ear": 0.8245892268156865,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.361462,
+      "elapsed_time": 26.352054119110107,
+      "left_ear": 0.5045404784360753,
+      "right_ear": 0.7294819196987723,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.465894,
+      "elapsed_time": 26.456485986709595,
+      "left_ear": 0.49695543696132155,
+      "right_ear": 0.7249041167674722,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.564158,
+      "elapsed_time": 26.554749965667725,
+      "left_ear": 0.5219362181491537,
+      "right_ear": 0.7481775796866209,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.664864,
+      "elapsed_time": 26.655456066131592,
+      "left_ear": 0.524590503814564,
+      "right_ear": 0.7449409073793891,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.764833,
+      "elapsed_time": 26.755424976348877,
+      "left_ear": 0.519383018485161,
+      "right_ear": 0.7388377911471571,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.862226,
+      "elapsed_time": 26.85281801223755,
+      "left_ear": 0.4930744955514366,
+      "right_ear": 0.8461261857745128,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525936.963546,
+      "elapsed_time": 26.954138040542603,
+      "left_ear": 0.5023199545773425,
+      "right_ear": 0.6882091034039999,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.0667899,
+      "elapsed_time": 27.057381868362427,
+      "left_ear": 0.5218776682307324,
+      "right_ear": 0.7680119179023095,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.1617239,
+      "elapsed_time": 27.152315855026245,
+      "left_ear": 0.4718887047300996,
+      "right_ear": 0.835453599396032,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.263645,
+      "elapsed_time": 27.254236936569214,
+      "left_ear": 0.4943240061881269,
+      "right_ear": 0.7712299631501016,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.366418,
+      "elapsed_time": 27.357009887695312,
+      "left_ear": 0.5384391774847238,
+      "right_ear": 0.7591984531844468,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.465714,
+      "elapsed_time": 27.456305980682373,
+      "left_ear": 0.5105940715004416,
+      "right_ear": 0.8113679211151222,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.563514,
+      "elapsed_time": 27.55410599708557,
+      "left_ear": 0.4813587626065599,
+      "right_ear": 0.8124725033642691,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.668457,
+      "elapsed_time": 27.659049034118652,
+      "left_ear": 0.5087551021927271,
+      "right_ear": 0.8432189857919636,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.7657568,
+      "elapsed_time": 27.756348848342896,
+      "left_ear": 0.49007210888690916,
+      "right_ear": 0.7366465664460802,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.8690188,
+      "elapsed_time": 27.85961079597473,
+      "left_ear": 0.48660628867153904,
+      "right_ear": 0.8683053590442825,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525937.965002,
+      "elapsed_time": 27.955594062805176,
+      "left_ear": 0.3473766606670368,
+      "right_ear": 0.5123512728592101,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525938.065195,
+      "elapsed_time": 28.055787086486816,
+      "left_ear": 0.42322761650666085,
+      "right_ear": 0.8087655090696025,
+      "eyes_closed": true
+    },
+    {
+      "timestamp": 1755525938.1625018,
+      "elapsed_time": 28.153093814849854,
+      "left_ear": 0.5117727033521935,
+      "right_ear": 0.8796093503066372,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525938.270025,
+      "elapsed_time": 28.26061701774597,
+      "left_ear": 0.4769764480623678,
+      "right_ear": 0.8080959220730298,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525938.366009,
+      "elapsed_time": 28.356600999832153,
+      "left_ear": 0.5332140426902149,
+      "right_ear": 0.8145181428036999,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525938.470305,
+      "elapsed_time": 28.460896968841553,
+      "left_ear": 0.5115874389190362,
+      "right_ear": 0.7893480580282625,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525938.5679119,
+      "elapsed_time": 28.55850386619568,
+      "left_ear": 0.4980697937465718,
+      "right_ear": 0.8257762851882715,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525938.663369,
+      "elapsed_time": 28.653960943222046,
+      "left_ear": 0.47671810967222583,
+      "right_ear": 0.7885227705899632,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525938.768312,
+      "elapsed_time": 28.758903980255127,
+      "left_ear": 0.5245480851725637,
+      "right_ear": 0.7255853181453947,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525938.869072,
+      "elapsed_time": 28.85966396331787,
+      "left_ear": 0.4489870235390568,
+      "right_ear": 0.826358866624134,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525938.973325,
+      "elapsed_time": 28.963917016983032,
+      "left_ear": 0.5415836275328991,
+      "right_ear": 0.8015118564148952,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525939.0703108,
+      "elapsed_time": 29.0609028339386,
+      "left_ear": 0.47758266790249726,
+      "right_ear": 0.8502916626389532,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525939.165171,
+      "elapsed_time": 29.155762910842896,
+      "left_ear": 0.17586187150976743,
+      "right_ear": 0.6787595901092779,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525939.2700999,
+      "elapsed_time": 29.26069188117981,
+      "left_ear": 0.3958033733740723,
+      "right_ear": 0.7930940552244171,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525939.4033012,
+      "elapsed_time": 29.393893241882324,
+      "left_ear": 0.46932442174521,
+      "right_ear": 0.8189234881168683,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525939.504732,
+      "elapsed_time": 29.49532389640808,
+      "left_ear": 0.5340748515652146,
+      "right_ear": 0.7943268470230103,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525939.622527,
+      "elapsed_time": 29.613118886947632,
+      "left_ear": 0.4417756367578464,
+      "right_ear": 0.9543751442575443,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525939.736396,
+      "elapsed_time": 29.726988077163696,
+      "left_ear": 0.5114845772326624,
+      "right_ear": 0.8148690850187315,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525939.8390799,
+      "elapsed_time": 29.82967185974121,
+      "left_ear": 0.47440710999220037,
+      "right_ear": 0.7762417306145504,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525939.936533,
+      "elapsed_time": 29.927124977111816,
+      "left_ear": 0.48861496116294206,
+      "right_ear": 0.8067159225235816,
+      "eyes_closed": false
+    },
+    {
+      "timestamp": 1755525940.040181,
+      "elapsed_time": 30.030772924423218,
+      "left_ear": 0.5180506657480854,
+      "right_ear": 0.7668290289824559,
+      "eyes_closed": false
+    }
+  ],
+  "blink_timestamps": [
+    {
+      "blink_number": 1,
+      "timestamp": 1755525910.822562,
+      "elapsed_time": 0.8131539821624756,
+      "left_ear": 0.08597483230552574,
+      "right_ear": 0.03744738343605047
+    },
+    {
+      "blink_number": 2,
+      "timestamp": 1755525911.2309928,
+      "elapsed_time": 1.2215847969055176,
+      "left_ear": 0.13337208881799603,
+      "right_ear": 0.05900066731391397
+    },
+    {
+      "blink_number": 3,
+      "timestamp": 1755525913.822321,
+      "elapsed_time": 3.812912940979004,
+      "left_ear": 0.2675171891105601,
+      "right_ear": 0.14511162313079395
+    },
+    {
+      "blink_number": 4,
+      "timestamp": 1755525915.323104,
+      "elapsed_time": 5.313695907592773,
+      "left_ear": 0.3036565295193923,
+      "right_ear": 0.07120493032797777
+    },
+    {
+      "blink_number": 5,
+      "timestamp": 1755525917.225004,
+      "elapsed_time": 7.215595960617065,
+      "left_ear": 0.2360262398884206,
+      "right_ear": 0.05660691949397921
+    },
+    {
+      "blink_number": 6,
+      "timestamp": 1755525918.226092,
+      "elapsed_time": 8.216684103012085,
+      "left_ear": 0.18668434732003317,
+      "right_ear": 0.05818138031375102
+    },
+    {
+      "blink_number": 7,
+      "timestamp": 1755525919.0291069,
+      "elapsed_time": 9.019698858261108,
+      "left_ear": 0.27859525833371196,
+      "right_ear": 0.1553892936978152
+    },
+    {
+      "blink_number": 8,
+      "timestamp": 1755525919.6328902,
+      "elapsed_time": 9.62348222732544,
+      "left_ear": 0.2924311181564913,
+      "right_ear": 0.21499111765210446
+    },
+    {
+      "blink_number": 9,
+      "timestamp": 1755525921.514956,
+      "elapsed_time": 11.505548000335693,
+      "left_ear": 0.2821742134331202,
+      "right_ear": 0.15978868479979963
+    },
+    {
+      "blink_number": 10,
+      "timestamp": 1755525922.133174,
+      "elapsed_time": 12.12376594543457,
+      "left_ear": 0.3103217773136041,
+      "right_ear": 0.2042287486426328
+    },
+    {
+      "blink_number": 11,
+      "timestamp": 1755525925.139808,
+      "elapsed_time": 15.130399942398071,
+      "left_ear": 0.07813475632378288,
+      "right_ear": 0.049480496810892685
+    },
+    {
+      "blink_number": 12,
+      "timestamp": 1755525926.944604,
+      "elapsed_time": 16.935195922851562,
+      "left_ear": 0.11930536658163943,
+      "right_ear": 0.05076225676706491
+    },
+    {
+      "blink_number": 13,
+      "timestamp": 1755525928.549102,
+      "elapsed_time": 18.53969407081604,
+      "left_ear": 0.28019952053056446,
+      "right_ear": 0.13665302983381025
+    },
+    {
+      "blink_number": 14,
+      "timestamp": 1755525930.544176,
+      "elapsed_time": 20.534768104553223,
+      "left_ear": 0.17521958188222483,
+      "right_ear": 0.06464180644560501
+    },
+    {
+      "blink_number": 15,
+      "timestamp": 1755525932.5643451,
+      "elapsed_time": 22.55493712425232,
+      "left_ear": 0.18052576829747502,
+      "right_ear": 0.15482970957097214
+    },
+    {
+      "blink_number": 16,
+      "timestamp": 1755525934.361429,
+      "elapsed_time": 24.352020978927612,
+      "left_ear": 0.18358089780939357,
+      "right_ear": 0.42320381915330463
+    },
+    {
+      "blink_number": 17,
+      "timestamp": 1755525937.965002,
+      "elapsed_time": 27.955594062805176,
+      "left_ear": 0.3473766606670368,
+      "right_ear": 0.5123512728592101
+    }
+  ]
+}
